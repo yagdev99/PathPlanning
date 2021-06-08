@@ -12,16 +12,14 @@ Two of the most simplest and widely used algorithms of Motion Planning are
 
 Results:
 
-* Ground Truth \
-![groundTruth](https://github.com/yagdev99/MotionPlanning/img/gt.png)
+* Ground Truth 
+<img src="https://github.com/yagdev99/MotionPlanning/blob/main/img/gt.png" width="350">
 
-* Dijsktra's Shortest Path Algorithm \
-![dijsktras](https://github.com/yagdev99/MotionPlanning/img/dijsktras-result.png)
+* Dijsktra's Shortest Path Algorithm 
+<img src="https://github.com/yagdev99/MotionPlanning/blob/main/img/dijsktras-result.png" width="350" >
 
-
-* A* Shortest Path Algorithm \
-![a-star](https://github.com/yagdev99/MotionPlanning/img/a-star-result.png)
-
+* A* Shortest Path Algorithm 
+<img src="https://github.com/yagdev99/MotionPlanning/blob/main/img/a-star-result.png" width="350">
 
 Resources:
 1) Motion Planning: 
