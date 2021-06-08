@@ -1,15 +1,13 @@
 # Motion Planning
 
-Motion planning or path planning is a process of determining series of configuration states of an entity to reach goal state without collision with an obstacle. For a motion planning algorithm to be efficient it must be:
+Motion planning or path planning is a process of determining series of configuration states of an entity to reach a goal state without collision with an obstacle. For a motion planning algorithm to be efficient it must be:
 1. Output the shortest path
 2. Require less computational time
-3. Require least amount of storage
+3. Require the least amount of storage
 
-Two of the most simplest and widely used algorithms of Motion Planning are 
+Two of the simplest and widely used algorithms of Motion Planning are 
 1) Dijsktra's Shartest Path: 
 2) A* Shortest Path
-
-
 Results:
 
 * Ground Truth 
