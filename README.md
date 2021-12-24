@@ -19,6 +19,12 @@ Results:
 * A* Shortest Path Algorithm 
 <img src="https://github.com/yagdev99/MotionPlanning/blob/main/img/a-star-result.png" width="350">
 
+* A* using ROS Maps
+* <img src="https://user-images.githubusercontent.com/69981745/147346007-e52c4f89-f961-47f2-9b9f-440011d61776.png" width="350">
+
+
+
+
 Resources:
 1) Motion Planning: 
     * https://www.cs.cmu.edu/~16311/current/schedule/ppp/Lec09-MotionPlanning1.pdf
